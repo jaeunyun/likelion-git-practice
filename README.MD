@@ -1,3 +1,5 @@
 # LIKELION AI SCHOOL GIT
 
 README
+
+1차수정
